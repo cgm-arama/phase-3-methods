@@ -24,7 +24,7 @@ add(1 , 2)
 
 
 def halve(num)
-    if num.class != Integer
+    if num.class !=Integer
         return nil 
     end
     num / 2
